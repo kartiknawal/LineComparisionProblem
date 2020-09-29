@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Repos\LineComparisionProblem\bin\Debug\netcoreapp3.1\LineComparisionProblem.exe
+C:\Users\hp\Desktop\Repos\LineComparisionProblem\bin\Debug\netcoreapp3.1\LineComparisionProblem.deps.json
+C:\Users\hp\Desktop\Repos\LineComparisionProblem\bin\Debug\netcoreapp3.1\LineComparisionProblem.runtimeconfig.json
+C:\Users\hp\Desktop\Repos\LineComparisionProblem\bin\Debug\netcoreapp3.1\LineComparisionProblem.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Repos\LineComparisionProblem\bin\Debug\netcoreapp3.1\LineComparisionProblem.dll
+C:\Users\hp\Desktop\Repos\LineComparisionProblem\bin\Debug\netcoreapp3.1\LineComparisionProblem.pdb
+C:\Users\hp\Desktop\Repos\LineComparisionProblem\obj\Debug\netcoreapp3.1\LineComparisionProblem.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Repos\LineComparisionProblem\obj\Debug\netcoreapp3.1\LineComparisionProblem.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Repos\LineComparisionProblem\obj\Debug\netcoreapp3.1\LineComparisionProblem.AssemblyInfo.cs
+C:\Users\hp\Desktop\Repos\LineComparisionProblem\obj\Debug\netcoreapp3.1\LineComparisionProblem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Repos\LineComparisionProblem\obj\Debug\netcoreapp3.1\LineComparisionProblem.dll
+C:\Users\hp\Desktop\Repos\LineComparisionProblem\obj\Debug\netcoreapp3.1\LineComparisionProblem.pdb
+C:\Users\hp\Desktop\Repos\LineComparisionProblem\obj\Debug\netcoreapp3.1\LineComparisionProblem.genruntimeconfig.cache
