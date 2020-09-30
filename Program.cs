@@ -13,9 +13,9 @@ namespace LineComparisionProblem
             Console.WriteLine("Line 2");
             double lengthOfLine2 = lengthOfLine();
             Console.WriteLine("Length of line 2: " + lengthOfLine2);
-            if (lengthOfLine1 == lengthOfLine2)
+            if (lengthOfLine1.CompareTo(lengthOfLine2) == 0)
                 Console.WriteLine("Line 1 & Line 2 are equal");
-            else if (lengthOfLine1 < lengthOfLine2)
+            else if (lengthOfLine1.CompareTo(lengthOfLine2) < 0)
                 Console.WriteLine("Line 1 is smaller than Line 2");
             else
                 Console.WriteLine("Line 1 is greater than Line 2");
